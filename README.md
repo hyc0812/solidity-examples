@@ -2,7 +2,7 @@
 Solidity Examples and Explanations. Examples are from [this site](https://solidity-by-example.org/hello-world/)
 
 
-## HelloWorld Smart Contract
+## 1 HelloWorld Smart Contract
 
 This repository contains a simple Solidity smart contract that stores and returns a greeting message.
 
